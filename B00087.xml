@@ -1,0 +1,551 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pleasant quippes for vpstart nevvfangled gentlevvomen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00087</idno>
+            <idno type="STC">STC 12096.5</idno>
+            <idno type="STC">ESTC S92732</idno>
+            <idno type="EEBO-CITATION">52633259</idno>
+            <idno type="OCLC">ocm 52633259</idno>
+            <idno type="VID">174058</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174058)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2116:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pleasant quippes for vpstart nevvfangled gentlevvomen.</title>
+                  <author>Gosson, Stephen, 1554-1624, supposed author.</author>
+               </titleStmt>
+               <extent>[12] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by Richard Iohnes,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Illustration on t.p.</note>
+                  <note>Signatures: A³, B⁴.</note>
+                  <note>'Pleasant quippes for upstart newfangled gentlewomen' is generally ascribed to Stephen Gosson. The attribution of the authorship to Gosson was first made by John Payne Collier on the basis of an inscription on the title-page of a copy of the 1596 edition claimed by Collier to be in Gosson's own handwriting. The inscription is now considered by some to be a Collier forgery. cf. Gosson, Stephen. Pleasant quippes for upstart newfangled gentlewomen, edited by E.J. Howard, 1942, p. vii -xvi. First published, London, 1595, with two title-pages: (1)Quippes for vpstart newfangled gentle-women; (2) A glasse, to view the pride of vain-glorious women ...</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Dulwich College.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Costume --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Social life and customs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174058:1"/>
+            <!-- PDF PAGE 120 -->
+            <pb facs="tcp:174058:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 120 -->
+            <p>PLEASANT Quippes for Vpſtart Nevvfangled Gentle<g ref="char:EOLhyphen"/>vvomen.</p>
+            <figure/>
+            <p>Imprinted at London by Richard Iohnes<g ref="char:punc">▪</g> 1596.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:174058:2"/>
+            <!-- PDF PAGE 121 -->
+            <pb facs="tcp:174058:2"/>
+            <!-- PDF PAGE 121 -->
+            <head>A Glaſſe, to vievve the pride <hi>of vaineglorious Women.</hi>
+            </head>
+            <head type="sub">A PLESANT INVECTIVE AGAINST the <hi>Fantastical Forreigue</hi> Toyes, dayly vſed in <hi>Womens apparel.</hi>
+            </head>
+            <lg>
+               <l>THeſe faſhions fonde of countrey ſtrange,</l>
+               <l>which Engliſh heads ſo much delight</l>
+               <l>Through towne and countrie which do range,</l>
+               <l>and are imbrac'd of euery wight.</l>
+               <l>So much I woonder ſtill to ſee,</l>
+               <l>That nought ſo much amazeth me.</l>
+            </lg>
+            <lg>
+               <l>If they by Painters cunning skill,</l>
+               <l>were prickt on walles, to make them gaye:</l>
+               <l>If glaſſe in windowes they did fill,</l>
+               <l>or trimd-vp-puppets, childrens play,</l>
+               <l>I would repute them Antickes olde,</l>
+               <l>They ſhould for me, go vncontrolde</l>
+            </lg>
+            <lg>
+               <l>If they on ſtage, in ſtately ſort</l>
+               <l>might ſet, to pleaſe the Idles eie:</l>
+               <l>If Maie-game maiets-for ſummer ſport,</l>
+               <l>by them in daunce, diſguiſde might be,</l>
+               <l>They would not then deſerue ſuch blame,</l>
+               <l>Nor worke the wearers half the ſhame.</l>
+            </lg>
+            <lg>
+               <l>But when as men, of lore and wit</l>
+               <l>and guiders of the wekaer kinde:</l>
+               <l>Doe iudge them for their mate ſo fit,</l>
+               <l>that nothing more, can pleaſe their mind.</l>
+               <l>I know not what to ſay to this,</l>
+               <l>But ſure I know, it is amiſſe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:3"/>
+               <!-- PDF PAGE 122 -->
+               <l>And when ſage Parents breeds in childe,</l>
+               <l>the greedy luſt of helliſh toyes,</l>
+               <l>Whereby in manners, they growe wilde,</l>
+               <l>and loſe the bliſſe of laſting ioyes.</l>
+               <l>I pittie much to ſee the caſe</l>
+               <l>That we thus faile of better grace.</l>
+            </lg>
+            <lg>
+               <l>And when proud princoks, Raſcals bratte,</l>
+               <l>in faſhions will be Princes mate:</l>
+               <l>And euerye Gyll that keeps a catte,</l>
+               <l>in rayment will be like a ſtate.</l>
+               <l>If any cauſe be to complaine,</l>
+               <l>In ſuch exceſſe who can refraine.</l>
+            </lg>
+            <lg>
+               <l>And when yoong wiſkers fit for worke,</l>
+               <l>in no good ſort will ſpend the day:</l>
+               <l>But be prophane, more then a Turke,</l>
+               <l>intending nought but to bee gay.</l>
+               <l>If we were bent to praiſe our time,</l>
+               <l>Of force wee muſt condemne this crime.</l>
+            </lg>
+            <lg>
+               <l>And when graue Matrones honeſt thought,</l>
+               <l>with light heeles traſh will credite cracke:</l>
+               <l>And following after faſhions nought,</l>
+               <l>of name and fame, will make a wracke.</l>
+               <l>Might loue, and lip, a fault conceale,</l>
+               <l>yet act and fact, would filth reueale.</l>
+            </lg>
+            <lg>
+               <l>And when olde Beldames, withered hagges,</l>
+               <l>whome hungrie Dogges cannot require:</l>
+               <l>Will whinnie ſtiil, like wanton nagges,</l>
+               <l>And ſadled be with ſuch attire.</l>
+               <l>A patient heart cannot but rage,</l>
+               <l>To ſee the ſhame of this our age.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:3"/>
+               <!-- PDF PAGE 122 -->
+               <l>Theſe Holland ſmockes ſo white as ſnowe,</l>
+               <l>and gorgets braue with drawn-work wrought:</l>
+               <l>A tempting ware they are you know,</l>
+               <l>wherewith (as nets) vaine youths are caught,</l>
+               <l>But manie times they rew the match,</l>
+               <l>when poxe &amp; pyles by whores they catch.</l>
+            </lg>
+            <lg>
+               <l>Theſe flaming heads with ſtaring haire,</l>
+               <l>theſe Wyers turnde, like hornes of Ram:</l>
+               <l>Theſe painted faces, which they weare,</l>
+               <l>can any tell from whence they cam.</l>
+               <l>
+                  <hi>(Don Sathan,)</hi> Lord of fayned lyes,</l>
+               <l>All theſe new fangeles did deuiſe.</l>
+            </lg>
+            <lg>
+               <l>Theſe glittering cawles, of golden plate,</l>
+               <l>wherewith their heads are richlie dect:</l>
+               <l>Makes them to ſeeme an Angels mate,</l>
+               <l>in iudgement of the ſimple ſect.</l>
+               <l>To Peacockes I compare them right,</l>
+               <l>That glorieth in their feathers bright.</l>
+            </lg>
+            <lg>
+               <l>Theſe Perriwigges ruffes, armed with pinnes,</l>
+               <l>theſe ſpangles, chaines, and laces all:</l>
+               <l>Theſe naked paps, the Deuils ginnes,</l>
+               <l>to worke vaine gazers painfull thrall.</l>
+               <l>He Fowler is, they are his nets,</l>
+               <l>Wherewith of fooles great ſtore he gets,</l>
+            </lg>
+            <lg>
+               <l>This ſtarch, and theſe rebating props,</l>
+               <l>as though ruffes were ſome rotten houſe:</l>
+               <l>All this new pelfe, now ſold in ſhops,</l>
+               <l>in value true, not worth a Louſe.</l>
+               <l>They are his dogs, he hunter ſharp,</l>
+               <l>By them a thouſand he doth warpe,</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:4"/>
+               <!-- PDF PAGE 123 -->
+               <l>This cloth of price, all cut in ragges,</l>
+               <l>theſe monſtrous bones that compaſſe armes:</l>
+               <l>Theſe buttons, pinches, fringes, iagges,</l>
+               <l>with them he weaueth wofull harmes,</l>
+               <l>He fiſher is, they are his baytes,</l>
+               <l>Wherewith to hel, he draweth huge heaps.</l>
+            </lg>
+            <lg>
+               <l>Weare masks for vailes to hide and holde,</l>
+               <l>as Chriſtians did, and Turkes do vſe</l>
+               <l>To hide the face, from wantons bolde,</l>
+               <l>ſmall cauſe then were, at them to muſe,</l>
+               <l>But barring onely wind and Sun,</l>
+               <l>Of verie pride they were begun.</l>
+            </lg>
+            <lg>
+               <l>But on each wight, now are they ſeene,</l>
+               <l>the tallow-pale the browning-bay,</l>
+               <l>The ſwarthy-blacke, the graſſie greene,</l>
+               <l>the pudding-red, the dapple-graie,</l>
+               <l>So might we iudge them toyes aright,</l>
+               <l>to keepe ſweet beautie ſtill in plight.</l>
+            </lg>
+            <lg>
+               <l>What els do maskes, but maskers ſhow,</l>
+               <l>and Maskers can both daunce and play:</l>
+               <l>Our masking Dames can ſport you knowe,</l>
+               <l>Sometime by night, ſometime by day,</l>
+               <l>Can you hit it, is oft their daunce,</l>
+               <l>Deuſe-ace fals ſtil to be their chance.</l>
+            </lg>
+            <lg>
+               <l>Were fannes, and flappes of feathers fond,</l>
+               <l>to flit away the flisking ſlies:</l>
+               <l>As taile of Mare that hangs on ground,</l>
+               <l>when heat of ſummer doth arriſe,</l>
+               <l>The wit of women we might praiſe,</l>
+               <l>For finding out, ſo great an eaſe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:4"/>
+               <!-- PDF PAGE 123 -->
+               <l>But ſeeing they are ſtil in hand,</l>
+               <l>in houſe, in field, in Church, in ſtreet:</l>
+               <l>In ſummer, winter, water, land,</l>
+               <l>in colde, in heate, in drie, in weet.</l>
+               <l>I iudge they are for wiues ſuch tooles,</l>
+               <l>As bables are in playes for fooles.</l>
+            </lg>
+            <lg>
+               <l>The baudie Buske, that keepes downe flat,</l>
+               <l>the bed wherein the babe ſhould breed:</l>
+               <l>What doth it els but point at that,</l>
+               <l>which faine would haue ſomewhat to feede.</l>
+               <l>Where bellie want might ſhaddow vale,</l>
+               <l>The Buſke ſets bellie all to ſale.</l>
+            </lg>
+            <lg>
+               <l>Were buskes to them, as ſtakes to gappes,</l>
+               <l>to barre the beaſtes from breaking in,</l>
+               <l>Or were they ſhields to beare off flaps,</l>
+               <l>when freind or foe would fray begin.</l>
+               <l>Who would the buskers forte aſſaile,</l>
+               <l>Againſt their ſconce, who could preuaile.</l>
+            </lg>
+            <lg>
+               <l>But ſeeing ſuch, as whome they arme,</l>
+               <l>of all the reſt do ſooneſt yeeld:</l>
+               <l>And that by ſhot, they take moſt harme,</l>
+               <l>when luſtie gameſters, come in field.</l>
+               <l>I gueſſe, Buſkes are but ſignes to tell,</l>
+               <l>Where Launderers for the campe do dwel.</l>
+            </lg>
+            <lg>
+               <l>Theſe priuie coates, by art made ſtrong,</l>
+               <l>with bones, with paſt, and ſuch like ware:</l>
+               <l>Whereby their backe and ſides grow long,</l>
+               <l>and now they harueſt, gallants are.</l>
+               <l>Were they for vſe againſt the foe,</l>
+               <l>Our Dames for <hi>Amazones</hi> might goe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:5"/>
+               <!-- PDF PAGE 124 -->
+               <l>But ſeeing they doe only ſtay</l>
+               <l>the courſe that nature doth intend:</l>
+               <l>And mothers often by them ſlay</l>
+               <l>their daughters yoong, and worke their end.</l>
+               <l>What are they els but armours ſtout:</l>
+               <l>Wherein like Gyants, <hi>Ioue</hi> thy flout.</l>
+            </lg>
+            <lg>
+               <l>Theſe hoopes that hippes and haunch do hide,</l>
+               <l>and heaue aloft the gay hoyſt-traine.</l>
+               <l>As they are now in vſe for pride,</l>
+               <l>ſo did they firſt beginne of paine.</l>
+               <l>When whoore in ſtewes had gotten poxe,</l>
+               <l>This Fench deuiſe, kept coats fom ſmocks.</l>
+            </lg>
+            <lg>
+               <l>I not gainſay, but baſtards ſprout,</l>
+               <l>might Arſes greate at firſt begin:</l>
+               <l>And that when paunch of whoore grew out,</l>
+               <l>Theſe hoopes did helpe to hide their finne.</l>
+               <l>And therefore tub-tailes all may rue,</l>
+               <l>That they came from ſo vile a crue.</l>
+            </lg>
+            <lg>
+               <l>If barreld bummes were full of Ale,</l>
+               <l>they might wel ſerue Tom Tapſters turne:</l>
+               <l>But yeelding nought but filth and ſtale,</l>
+               <l>no loſſe it were if they did burne.</l>
+               <l>Their liquors doth ſo ſmell and ſtinke,</l>
+               <l>That no man can it vſe for drinke.</l>
+            </lg>
+            <lg>
+               <l>Theſe Adornes white of fineſt thrid,</l>
+               <l>ſo choicelic tide, ſo dearelie bought:</l>
+               <l>So finely fring, ſo nicelie ſpred</l>
+               <l>ſo quaintlie cut, ſo richlie wrought.</l>
+               <l>Were they in worke to ſaue their cotes,</l>
+               <l>They neeed not coſt ſo many grotes.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:5"/>
+               <!-- PDF PAGE 124 -->
+               <l>When ſhooters aime at buttes and prickes,</l>
+               <l>they ſet vp whites to ſhew the pinne:</l>
+               <l>It may be, Adornes are like trciks,</l>
+               <l>to teach where rouers game may winne.</l>
+               <l>Braue archers ſoone will find the marke,</l>
+               <l>But bunglers hit it in the darke.</l>
+            </lg>
+            <lg>
+               <l>Theſe worſted ſtockes of braueſt die,</l>
+               <l>and ſilken garters fring'd with gold:</l>
+               <l>Theſe corked ſhooes to beare them hie,</l>
+               <l>makes them to trip it on the molde.</l>
+               <l>They mince it then with pace ſo ſtrange</l>
+               <l>Like vntam'd heifers, when they range,</l>
+            </lg>
+            <lg>
+               <l>To carrie all this pelfe and traſh,</l>
+               <l>be cauſe their bodies are vnfit,</l>
+               <l>Our wantons now in coaches daſh,</l>
+               <l>from houſe to houſe, from ſtreet to ſtreet,</l>
+               <l>Were they of ſtate, or were they lame,</l>
+               <l>To ride in coach they need not ſhame.</l>
+            </lg>
+            <lg>
+               <l>But being baſe, and ſound in health,</l>
+               <l>they teach for what they coatches make:</l>
+               <l>Some thinks perhaps to ſhew their wealth,</l>
+               <l>nay, nay, in them they penaunce take.</l>
+               <l>As poorer truls, muſt ride in cartes,</l>
+               <l>So coatches are for prouder hearts.</l>
+            </lg>
+            <lg>
+               <l>You ſillie men, of ſimple ſence,</l>
+               <l>what ioy haue you, old-Cookes to be:</l>
+               <l>Your owne deare fleſh, thus to diſpence,</l>
+               <l>to pleaſe the glance of luſting eie.</l>
+               <l>That you ſhould coutch your meat in diſh,</l>
+               <l>And others feele, it is no fiſh.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:6"/>
+               <!-- PDF PAGE 125 -->
+               <l>Of verie loue you them array,</l>
+               <l>in ſiluer, golde, and iewels braue:</l>
+               <l>For ſilke and veluet ſtill you pay,</l>
+               <l>ſo they be trimme, no coſt you ſaue.</l>
+               <l>But think you ſuch as ioy in theſe,</l>
+               <l>Will couet none, but you to pleaſe.</l>
+            </lg>
+            <lg>
+               <l>When they for gawdes, and toyes do wrangle,</l>
+               <l>pretending ſtate and neighbours guiſe,</l>
+               <l>Then are they bent, to trap and tangle,</l>
+               <l>Vnskilfull braines, and heads vnwiſe:</l>
+               <l>I neuer yet ſaw, bayted hooke,</l>
+               <l>But fiſher then for game did looke.</l>
+            </lg>
+            <lg>
+               <l>They ſay they are of gentle race,</l>
+               <l>and therefore muſt be finely deckt,</l>
+               <l>It were for them a great diſgrace,</l>
+               <l>to be as are the ſimple ſect.</l>
+               <l>Fine Gentles muſt be finely clad,</l>
+               <l>All them beſeemes, that may be had.</l>
+            </lg>
+            <lg>
+               <l>They gentle are both borne and bred,</l>
+               <l>they gentle are in ſport and game:</l>
+               <l>They gentle are at boord and bed,</l>
+               <l>they gentle are in wealth and name.</l>
+               <l>Such gentles nice, muſt needs be trimme,</l>
+               <l>From head to foot in euerie limme.</l>
+            </lg>
+            <lg>
+               <l>But husbands you, marke well my ſawes,</l>
+               <l>when they pretend their gentle blood.</l>
+               <l>Then they intend to make you dawes,</l>
+               <l>in vaine to ſpend your wealth and good.</l>
+               <l>You better were the clowne to cloath,</l>
+               <l>Then Gentles which doe vertue loath.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:6"/>
+               <!-- PDF PAGE 125 -->
+               <l>True Gentles ſhould be lightes and guides,</l>
+               <l>in modeſt path to ſimple ranke</l>
+               <l>But theſe that ſtraye ſo farre aſide,</l>
+               <l>themſelues that thus vnſeemlie pranke.</l>
+               <l>They are but puppets richlie dight,</l>
+               <l>True Gentrie they haue put to flight.</l>
+            </lg>
+            <lg>
+               <l>You daintie Minious, tel me ſooth,</l>
+               <l>diſſemble not, but vtter plaine:</l>
+               <l>Is not this thus of verie troth,</l>
+               <l>thinke you I ſlaunder, lie or faine:</l>
+               <l>When you haue all your trinkets fit,</l>
+               <l>Can you alone in chamber ſit.</l>
+            </lg>
+            <lg>
+               <l>You are not then to carde and ſpinne,</l>
+               <l>to brue or bake I dare well ſay:</l>
+               <l>No thriftie worke you can beginne,</l>
+               <l>you haue nought els to doe but play.</l>
+               <l>To play alone were for a ſot,</l>
+               <l>It's knowne, you minions, vſe it not.</l>
+            </lg>
+            <lg>
+               <l>You thinke (perhaps) to win great ſame.</l>
+               <l>by vncouth ſutes, and faſhions wilde</l>
+               <l>All ſuch as know you, thinke the ſame,</l>
+               <l>but in ech kind, you are beguilde.</l>
+               <l>For when you looke for praiſes ſound,</l>
+               <l>Then are you ſo light fiſgiggs crownde<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>The better ſort, that modeſt are,</l>
+               <l>whome gariſh pompe doth not infect:</l>
+               <l>Of them Dame honour, hath a care,</l>
+               <l>with glorious fame, that they be deckt:</l>
+               <l>Their praiſes, will for aie remaine,</l>
+               <l>When bodies rot, ſhall vertue gaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:174058:7"/>
+               <!-- PDF PAGE 126 -->
+               <l>Thou Poet rude if thou be ſcorn'd,</l>
+               <l>diſdaine it not, for Preachers graue</l>
+               <l>Are ſtill diſpiſd, by faces hornde,</l>
+               <l>when they for better manners craue.</l>
+               <l>That hap which fals, on men diuine,</l>
+               <l>If thou it feele, doe not repine.</l>
+            </lg>
+            <lg>
+               <l>I know ſome think, my tearmes are groſſe,</l>
+               <l>too plaine thou art ſome others deeme:</l>
+               <l>Be not agaſt, thy foes are droſſe,</l>
+               <l>full well doth rudneſſe them beſeeme.</l>
+               <l>Who thee miſlike, are but a meſſe,</l>
+               <l>And here their kinds I will expreſſe.</l>
+            </lg>
+            <lg>
+               <l>Firſt, a ſimple ſwaine, that nothing knowes,</l>
+               <l>next, curtaile-flurt, as ranke as beaſt:</l>
+               <l>Then peacocke proud, that ſtatelie goes,</l>
+               <l>laſt, roiſting knaues, of vertue leaſt.</l>
+               <l>None els but theſe will thee diſdaine,</l>
+               <l>Contemne them all as cauſes vaine.</l>
+            </lg>
+            <lg>
+               <l>Good men of skill, doe know it well,</l>
+               <l>that theſe our dayes require ſuch ſpeech:</l>
+               <l>Who oft are moued with threats of hell,</l>
+               <l>whome Preachers ſtill in vaine beſeech.</l>
+               <l>Is any knife too ſharpe for ſuch</l>
+               <l>Or any word for them too much.</l>
+            </lg>
+            <lg>
+               <l>Let fearfull Poets, pardon craue,</l>
+               <l>that ſeeke for praiſe, at euerie lips:</l>
+               <l>Doe thou not fauor, nor yet raue,</l>
+               <l>the golden meane is free from trips.</l>
+               <l>This leſſon old was taught in ſchooles,</l>
+               <l>It's praiſe to be diſpraiſde of fooles.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
